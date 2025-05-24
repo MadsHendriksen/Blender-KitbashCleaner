@@ -22,7 +22,7 @@ Resize all textures in selected object or entire scene to a defined max resoluti
 
 Automatically organize your scene's collections based on object type.
 
-Special KB3D organizer that groups geo, lights, and cameras with emoji prefixes.
+Special KB3D organizer that automatically sets up Kitbash3D assets ready for the asset browser
 
 🛋️ Exporters
 
